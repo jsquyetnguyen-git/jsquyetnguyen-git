@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/jsquyetnguyen">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jsquyetnguyen-git&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jsquyetnguyen-git&layout=compact&langs_count=8&theme=algolia"/>
 </a>
@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://linkedin.com/in/jsquyetnguyen"><img src="https://img.shields.io/badge/-JSQUYETNGUYEN-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:jsquyetnguyen@gmail.com"><img src="https://img.shields.io/badge/-JSQUYETNGUYEN-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/jsquyetnguyen"><img src="https://img.shields.io/badge/-@JSQUYETNGUYEN-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/jsquyetnguyen"><img src="https://img.shields.io/badge/-@JSQUYETNGUYEN-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://instagram.com/jsquyetnguyen"><img src="https://img.shields.io/badge/-JSQUYETNGUYEN-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/jsquyetnguyen"><img src="https://img.shields.io/badge/-JSQUYETNGUYEN-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
