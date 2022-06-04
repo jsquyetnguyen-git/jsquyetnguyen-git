@@ -20,6 +20,22 @@ Here are some ideas to get you started:
 </a>
 </p>
 
+
+### <h2 align="center">🛠 Techs and Tools 🛠</h2>
+
+
+<span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></span>
+        
+&nbsp;
+
+<span><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/></span>
+        
+&nbsp;
+
+
+<br>
+
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
