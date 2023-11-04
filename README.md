@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Java, Web development
 
 
-
+<!--
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -19,6 +19,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jsquyetnguyen-git&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+-->
 
 ### 💻 &nbsp;Techs and Tools
 <h4 align="center"> 👨‍💻 FRONT END</h4>
